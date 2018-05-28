@@ -1,0 +1,58 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+.header{}
+.logo {
+    width: 20%;
+    background: red;
+    height: 80px;
+    float: left;
+}
+.menu {
+    width: 80%;
+    height: 80px;
+    background: blue;
+    overflow: hidden;
+}
+.banner {
+    width: 100%;
+    height: 300px;
+    background: green;
+}
+.content{}
+.content-left {
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+.content-left-top {
+    width: 100%;
+    height: 125px;
+    background: blue;
+}
+.content-left-bottom {
+    width: 100%;
+    background: black;
+    height: 125px;
+}
+.content-right {
+    width: 50%;
+    height: 250px;
+    background: red;
+    overflow: hidden;
+}
+.footer {
+    width: 100%;
+    height: 100px;
+    background: orange;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
